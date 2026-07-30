@@ -1,0 +1,1 @@
+strategy_notes_content
